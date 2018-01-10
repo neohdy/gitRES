@@ -16,4 +16,6 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software.\
 Hello world\
-Version 3}
+Version 3\
+Git tracks changes\
+}
